@@ -1,0 +1,140 @@
+.me {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #282828;
+  border-bottom: 4px solid #008cff;
+  padding: 20px;
+  color: #fffbfb;
+}
+
+.lin {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  gap: 20px;
+}
+
+.lin a {
+  text-decoration: none;
+  color: #fffbfb;
+  font-weight: bold;
+}
+input[type="search"] {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #ff8c00;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.div {
+  background-image: url("/assets/cabecera.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 70px;
+}
+.div h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+
+.div h2 {
+  font-size: 45px;
+  margin-bottom: 20px;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+
+.div p {
+  align-items: center;
+  color: #fffbfb;
+}
+
+.log {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  padding: 10px 40px;
+  background-color: #ffffff;
+  color: #fffbfb;
+}
+
+.div2 {
+  background-image: #fff;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 70px;
+}
+
+.con {
+  flex: 1;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.html {
+  flex: 1;
+  background: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
+
+.css {
+  flex: 1;
+  background: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
+
+.com {
+  flex: 1;
+  background: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
+
+.pie {
+  background: #008cd8;
+  padding: 12px;
+  color: white;
+  text-align: center;
+}
+.com h2 {
+  font-size: 20px;
+  align-items: center;
+  color: rgb(0, 0, 0);
+}
+
+.cont {
+  flex: 1;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.gra {
+  flex: 1;
+  background: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
+
+.peque {
+  flex: 1;
+  background: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
