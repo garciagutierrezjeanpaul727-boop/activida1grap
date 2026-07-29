@@ -36,7 +36,7 @@ button {
   cursor: pointer;
 }
 .div {
-  background-image: url("/assets/cabecera.jpg");
+  background-image: url("../assets/cabecera.jpg");
   background-size: cover;
   background-position: center;
   color: white;
